@@ -1,4 +1,4 @@
-# 👩‍💻 JavaScript Array Methods – Employees Example
+# 👨🏽‍💻 JavaScript Array Methods – Employees Example
 
 โปรเจกต์ตัวอย่างการใช้งาน **Array Methods** ของ JavaScript  
 ใช้ dataset `employees` (พนักงานในบริษัท) แล้วทำโจทย์ 10 ข้อ
