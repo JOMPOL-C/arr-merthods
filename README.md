@@ -3,6 +3,65 @@
 โปรเจกต์ตัวอย่างการใช้งาน **Array Methods** ของ JavaScript  
 ใช้ dataset `employees` (พนักงานในบริษัท) แล้วทำโจทย์ 10 ข้อ
 
+ตัวอย่าง Array :
+```js
+const employees = [
+  {
+    id: 1,
+    name: "ก้องภพ",
+    department: "IT",
+    position: "Developer",
+    salary: 65000,
+    startDate: "2021-04-15",
+    isActive: true,
+  },
+  {
+    id: 2,
+    name: "วิมล",
+    department: "Marketing",
+    position: "Marketing Manager",
+    salary: 92000,
+    startDate: "2019-08-01",
+    isActive: true,
+  },
+  {
+    id: 3,
+    name: "สมศักดิ์",
+    department: "IT",
+    position: "Senior Developer",
+    salary: 88000,
+    startDate: "2018-02-20",
+    isActive: false,
+  },
+  {
+    id: 4,
+    name: "จินตนา",
+    department: "Sales",
+    position: "Sales Rep",
+    salary: 58000,
+    startDate: "2022-11-10",
+    isActive: true,
+  },
+  {
+    id: 5,
+    name: "อมร",
+    department: "IT",
+    position: "Developer",
+    salary: 68000,
+    startDate: "2023-07-01",
+    isActive: true,
+  },
+  {
+    id: 6,
+    name: "สุดา",
+    department: "Sales",
+    position: "Sales Manager",
+    salary: 105000,
+    startDate: "2017-05-30",
+    isActive: true,
+  },
+];
+```
 ---
 
 ## 📂 แบบฝึกหัดที่ทำ
